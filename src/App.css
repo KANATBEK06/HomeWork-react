@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+*{
+  margin: 0;
+}
+
+/* // React
+// components
+// 1. function
+// 2. return jsx
+// 3. aty chon tamga menen bashtalysh kerek
+// 4. bir container baaryn orop turush kerek
+// SPA single page application
+// reactive(state, VDom)
+// declarative */
